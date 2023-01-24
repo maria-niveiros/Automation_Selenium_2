@@ -1,0 +1,14 @@
+org\example\SauceDemo\pages\ESauceCheckOutTwoPage.class
+org\example\SauceDemo\tests\HomePage\HomePageTest.class
+org\example\SauceDemo\pages\FSauceCheckOutCompletePage.class
+org\example\SauceDemo\tests\FinalCheckoutPage\FinalCheckoutTest.class
+org\example\SauceDemo\pages\ASauceHomePage.class
+org\example\SauceDemo\tests\E2E\E2ETests.class
+org\example\SauceDemo\pages\CSauceCartPage.class
+org\example\SauceDemo\tests\InventoryPage\InventoryPageTest.class
+org\example\SauceDemo\base\BasePage.class
+org\example\SauceDemo\base\BaseTest.class
+org\example\Main.class
+org\example\SauceDemo\pages\BSauceInventoryPage.class
+org\example\extentreports\ExtentFactory.class
+org\example\SauceDemo\pages\DSauceCheckOutOnePage.class
